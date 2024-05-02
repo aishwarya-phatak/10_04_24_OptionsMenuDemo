@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">10_04_24_OptionsMenuDemo</string>
+    <string name="item_save">Save</string>
+    <string name="item_download">Download</string>
+    <string name="item_Favourite">Favourite</string>
+    <string name="item_important">Important</string>
+</resources>
